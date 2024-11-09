@@ -1,0 +1,15 @@
+contractions
+textblob
+spacy
+transformers
+numpy
+pandas
+matplotlib
+warnings
+seaborn
+sklearn
+tensorflow
+torch
+tqdm
+adapter-transformers
+itertools
